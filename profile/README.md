@@ -9,7 +9,3 @@
 ## 🦄 Features
 
 ## 🚀 Roadmap
-
-## 🧑‍💻 Documentation
-
-## 🙏 Contributing
