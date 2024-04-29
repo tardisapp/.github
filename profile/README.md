@@ -6,8 +6,4 @@
 
 <hr>
 
-## 🦄 Features
-
-## 🚀 Roadmap
-
-## 🧑‍💻 Authors
+<i>In develop...</i>
